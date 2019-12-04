@@ -23,7 +23,7 @@ public class FilmController {
 	@Autowired
 	private FilmService service;
 	
-	
+	//查询列表
 	@RequestMapping("list")
 	public String list(@RequestParam(defaultValue = "1")int pageNum,Model m) {
 		
