@@ -16,7 +16,11 @@ import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;
 import com.sunmengjie.entity.Film;
 import com.sunmengjie.service.FilmService;
-
+/**
+ * 
+ * @author Administrator
+ *
+ */
 @Controller
 public class FilmController {
 
