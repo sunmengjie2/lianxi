@@ -1,10 +1,5 @@
 package com.sunmengjie.util;
 
-
-//**
-
-//123
-
-public class Utli {
+public class util2 {
 
 }
